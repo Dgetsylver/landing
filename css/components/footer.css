@@ -2,11 +2,11 @@
   background-color: #252832;
   padding: 24px;
   color: white;
+  text-align: center;
 }
 .footer a {
   color: white;
   font-size: 32px;
-  text-align: center;
 }
 
 .list-inline {
@@ -16,5 +16,4 @@
 .list-inline li {
   display: inline;
   padding: 0px 8px;
-  text-align: center;
 }
