@@ -2,7 +2,6 @@
   background-color: #252832;
   padding: 24px;
   color: white;
-  text-align: center;
 }
 .footer a {
   color: white;
@@ -12,6 +11,10 @@
 .list-inline {
   list-style: none;
   padding-left: 0px;
+  text-align: center;
+}
+.list-inline p {
+  text-align: center;
 }
 .list-inline li {
   display: inline;
