@@ -12,7 +12,7 @@ body{
 	font-size: 17px;
 	color: #4D4D4D;
 }
-h1,h2,h3{
+h1,h2,h3,h4{
 	font-family: 'Lora',serif;
 	font-weight: bold;
 }
@@ -23,8 +23,10 @@ h2{
 	font-size: 25px
 }
 h3{
-	font-size: 17px;
-	text-align: center;	
+	font-size: 20px;	
+}
+h4{
+	font-size: 17px;	
 }
 a{
 	text-decoration: none;
